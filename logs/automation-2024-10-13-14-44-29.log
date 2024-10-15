@@ -1,0 +1,44 @@
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:44:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\Temp\testng-eclipse--2056034710\testng-customsuite.xml
+
+2024-10-13 14:44:30 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2024-10-13 14:44:32 INFO  testCaseReg:23 - Browser is goint to launch
+2024-10-13 14:44:33 INFO  testCaseReg:26 - Browser is launched
+2024-10-13 14:44:33 INFO  testCaseReg:32 - Now create/register account
+2024-10-13 14:44:34 INFO  testCaseReg:37 - Now user details will get filled
+2024-10-13 14:44:36 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@51827393: 141 ms
+2024-10-13 14:44:36 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@48b22fd4: 21 ms
+2024-10-13 14:44:36 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@7103ab0: 17 ms
+2024-10-13 14:44:36 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@51b1a8f6: 19 ms
+2024-10-13 14:44:37 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@109d724c: 20 ms
+2024-10-13 14:44:37 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1704f67f: 1 ms

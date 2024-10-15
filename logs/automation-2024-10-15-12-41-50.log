@@ -1,0 +1,6 @@
+2024-10-15 12:41:55 [main] INFO  testCase.T01_testNewRegistration - Now create/register account
+2024-10-15 12:41:56 [main] INFO  testCase.T01_testNewRegistration - Now user details will get filled
+2024-10-15 12:41:58 [main] INFO  testCase.T01_testNewRegistration - Account/Registration is get completed/filled
+2024-10-15 12:42:01 [main] INFO  testCase.T02_testLogin - Starting Test T02_testLogin...
+2024-10-15 12:42:01 [main] INFO  testCase.T02_testLogin - Logging to the account
+2024-10-15 12:42:02 [main] INFO  testCase.T02_testLogin - 

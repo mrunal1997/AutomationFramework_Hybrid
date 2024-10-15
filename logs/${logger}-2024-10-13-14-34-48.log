@@ -1,0 +1,44 @@
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:34:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\Temp\testng-eclipse--1306141015\testng-customsuite.xml
+
+2024-10-13 14:34:48 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2024-10-13 14:34:51 INFO  testCaseReg:23 - Browser is goint to launch
+2024-10-13 14:34:52 INFO  testCaseReg:26 - Browser is launched
+2024-10-13 14:34:52 INFO  testCaseReg:32 - Now create/register account
+2024-10-13 14:34:53 INFO  testCaseReg:37 - Now user details will get filled
+2024-10-13 14:34:55 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@1e6cc850: 142 ms
+2024-10-13 14:34:55 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@19ccca5: 43 ms
+2024-10-13 14:34:55 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2a389173: 18 ms
+2024-10-13 14:34:55 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@31da6b2e: 21 ms
+2024-10-13 14:34:55 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2d746ce4: 23 ms
+2024-10-13 14:34:55 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5dbf5634: 0 ms

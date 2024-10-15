@@ -1,0 +1,44 @@
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-13 14:40:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\Temp\testng-eclipse--911328467\testng-customsuite.xml
+
+2024-10-13 14:40:35 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2024-10-13 14:40:37 INFO  testCaseReg:23 - Browser is goint to launch
+2024-10-13 14:40:39 INFO  testCaseReg:26 - Browser is launched
+2024-10-13 14:40:39 INFO  testCaseReg:32 - Now create/register account
+2024-10-13 14:40:40 INFO  testCaseReg:37 - Now user details will get filled
+2024-10-13 14:40:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@185f7840: 164 ms
+2024-10-13 14:40:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@7103ab0: 22 ms
+2024-10-13 14:40:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@51b1a8f6: 20 ms
+2024-10-13 14:40:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@99a78d7: 19 ms
+2024-10-13 14:40:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7c6442c2: 36 ms
+2024-10-13 14:40:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2d746ce4: 0 ms
