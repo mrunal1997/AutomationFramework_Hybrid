@@ -8,7 +8,7 @@
 
   <test thread-count="5" name="Test">
   
-  <parameter name="os" value="Linux" />
+  <parameter name="os" value="Windows" />
   	<parameter name="browser"  value="chrome"/>
   
     <groups>
@@ -21,7 +21,7 @@
     </groups>
     
     <classes>
-      <class name="testCase.T01_testNewRegistration"/>
+      <!--class name="testCase.T01_testNewRegistration"/>-->
       <!-- <class name="testCase.T03_testLoginDDT"/>-->
       <class name="testCase.T02_testLogin"/>
     </classes>

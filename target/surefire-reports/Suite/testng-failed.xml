@@ -5,7 +5,7 @@
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
   <test thread-count="5" name="Test(failed)" verbose="0">
-    <parameter name="os" value="Linux"/>
+    <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <groups>
       <run>
@@ -16,13 +16,13 @@
       </run>
     </groups>
     <classes>
-      <class name="testCase.T03_testLoginDDT">
+      <class name="testCase.T02_testLogin">
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="testLgoinDDT" invocation-numbers="0 4"/>
+          <include name="testLogin"/>
         </methods>
-      </class> <!-- testCase.T03_testLoginDDT -->
+      </class> <!-- testCase.T02_testLogin -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

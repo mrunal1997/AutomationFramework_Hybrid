@@ -1,0 +1,9 @@
+2024-10-16 15:35:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\AutomationFramework_Hybrid\testng.xml
+
+2024-10-16 15:36:01 [main] INFO  testCase.T01_testNewRegistration - Now create/register account
+2024-10-16 15:36:02 [main] INFO  testCase.T01_testNewRegistration - Now user details will get filled
+2024-10-16 15:36:04 [main] INFO  testCase.T01_testNewRegistration - Account/Registration is get completed/filled
+2024-10-16 15:36:08 [main] INFO  testCase.T02_testLogin - Starting Test T02_testLogin...
+2024-10-16 15:36:08 [main] INFO  testCase.T02_testLogin - Logging to the account
+2024-10-16 15:36:09 [main] INFO  testCase.T02_testLogin - 
