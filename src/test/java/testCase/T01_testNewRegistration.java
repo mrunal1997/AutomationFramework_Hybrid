@@ -6,10 +6,10 @@ import org.testng.annotations.Test;
 import baseClass.BaseClassPage;
 import pajeObject.HomePage;  // Separate file for HomePage
 import pajeObject.RegistrationPage;  // Separate file for RegistrationPage
-
+import utilities.RetryAnalyzer;
 public class T01_testNewRegistration extends BaseClassPage {
 
-    @Test(groups={"sanity", "master"})
+    @Test(groups={"sanity", "master"},  retryAnalyzer = RetryAnalyzer.class)
     public void verify_account_registration() {
         HomePage hp = new HomePage(driver);  // Interacting with HomePage object
         logger.info("Now create/register account");
